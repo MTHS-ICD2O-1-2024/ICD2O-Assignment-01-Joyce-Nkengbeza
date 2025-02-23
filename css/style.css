@@ -2,3 +2,25 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+body {
+  background-color: rgb(236, 203, 245);
+}
+
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(46, 44, 44);
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(46, 44, 44);
+  text-align: center;
+}
+
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
