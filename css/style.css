@@ -11,7 +11,8 @@ img {
   display: block;
   max-width: 50%;
   height: auto;
-  text-align: center;
+  display: block;
+    margin: 0 auto;
 }
 
 
