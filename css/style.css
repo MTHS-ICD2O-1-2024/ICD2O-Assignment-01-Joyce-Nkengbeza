@@ -40,3 +40,10 @@ p {
   font-size: 20px;
   text-align: center;
 }
+
+
+hr {
+  border: 1px solid #070707;
+  margin: 20px 0;
+  width: 100%;
+}
