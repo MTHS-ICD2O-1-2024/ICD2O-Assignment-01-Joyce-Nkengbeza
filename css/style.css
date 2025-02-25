@@ -15,6 +15,13 @@ img {
   margin: 0 auto;
 }
 
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background: rgb(230, 201, 226);
+  border-radius: 10px;
+}
 
 
 h1 {
