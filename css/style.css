@@ -15,14 +15,6 @@ img {
   margin: 0 auto;
 }
 
-.container {
-  max-width: 500px;
-  margin: 20px auto;
-  padding: 15px;
-  background: rgb(250, 181, 181);
-  border-radius: 10px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-}
 h1 {
   font-family: 'Times New Roman', Times, serif;
   color: rgb(46, 44, 44);
